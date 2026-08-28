@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+
+# Payroll documents may contain personal or financial information.
+input_pdfs/
+redacted_pdfs/
